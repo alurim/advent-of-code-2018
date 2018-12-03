@@ -33,3 +33,5 @@ const input = fs.createReadStream(path.resolve(__dirname, "input"));
   }
   console.log(counter);
 })();
+
+// Output: 576
